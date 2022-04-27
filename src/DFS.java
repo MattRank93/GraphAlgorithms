@@ -6,7 +6,7 @@ import java.util.HashSet;
 
 /**
  * Sample code for a Depth First Search
- *
+ *I made some changes
  */
 public class DFS {
 
